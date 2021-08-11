@@ -1,0 +1,6 @@
+
+"This File is for my reference"
+
+For Windows subsystem:
+In ubuntu :
+	1) To change directory to booot folder :  >>cd /mnt/c/Users/Admin/Desktop/boot
